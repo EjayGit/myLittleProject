@@ -4,10 +4,11 @@
 - Install node_modules in for the frontend, which is react based
 - Create a venv for the server and install python dependancies (sorry, I havent got a req.txt yet file, you'll have to go through the files)
 
+In order, run:
   
-- Run npm run dev (front end)
-- Run app.py (back end)
-- Run searchZim.py
-- Run api_orchestrator_auto.py
+- npm run dev (front end)
+- app.py (back end)
+- searchZim.py
+- api_orchestrator_auto.py
+- auto_trainer.py
 
-- Run auto_trainer.py
