@@ -1,0 +1,16 @@
+zim/llmTrain.py
+zim/readZim.py
+zim/zimTest.py
+venv
+github
+frontend/node_modules
+backend/init.py
+backend/model2.py
+backend/model3.py
+backend/model4.py
+backend/test.py
+backend/wiki.py
+autoAPI/github_integration.py
+autoAPI/github_scraper.py
+autoAPI/launch_auto.py
+.vite
